@@ -545,11 +545,11 @@ arg1==arg2 || arg1==arg3 || arg1==arg4
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第三十四章 命令行flag包 ](https://github.com/ffhelicopter/Go42/blob/master/content/42_34_flag.md)
+[第三十四章 命令行flag包 ](../../content/42_34_flag.md)
 
-[第三十六章 net/http包](https://github.com/ffhelicopter/Go42/blob/master/content/42_36_http.md)
+[第三十六章 net/http包](../../content/42_36_http.md)
 
 
 >本书《Go语言四十二章经》内容在github上同步地址：https://github.com/ffhelicopter/Go42
@@ -1105,11 +1105,11 @@ arg1==arg2 || arg1==arg3 || arg1==arg4
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第三十四章 命令行flag包 ](https://github.com/ffhelicopter/Go42/blob/master/content/42_34_flag.md)
+[第三十四章 命令行flag包 ](../../content/42_34_flag.md)
 
-[第三十六章 net/http包](https://github.com/ffhelicopter/Go42/blob/master/content/42_36_http.md)
+[第三十六章 net/http包](../../content/42_36_http.md)
 
 
 >本书《Go语言四十二章经》内容在github上同步地址：https://github.com/ffhelicopter/Go42

@@ -212,11 +212,11 @@ strings.Contains(s, substr string) bool
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第九章 运算符](https://github.com/ffhelicopter/Go42/blob/master/content/42_09_operator.md)
+[第九章 运算符](../../content/42_09_operator.md)
 
-[第十一章 数组(Array)](https://github.com/ffhelicopter/Go42/blob/master/content/42_11_array.md)
+[第十一章 数组(Array)](../../content/42_11_array.md)
 
 
 

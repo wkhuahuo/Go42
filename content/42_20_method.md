@@ -853,11 +853,11 @@ pnew name: Haw
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第十九章 接口](https://github.com/ffhelicopter/Go42/blob/master/content/42_19_interface.md)
+[第十九章 接口](../../content/42_19_interface.md)
 
-[第二十一章 协程(goroutine)](https://github.com/ffhelicopter/Go42/blob/master/content/42_21_goroutine.md)
+[第二十一章 协程(goroutine)](../../content/42_21_goroutine.md)
 
 
 
@@ -1721,11 +1721,11 @@ pnew name: Haw
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第十九章 接口](https://github.com/ffhelicopter/Go42/blob/master/content/42_19_interface.md)
+[第十九章 接口](../../content/42_19_interface.md)
 
-[第二十一章 协程(goroutine)](https://github.com/ffhelicopter/Go42/blob/master/content/42_21_goroutine.md)
+[第二十一章 协程(goroutine)](../../content/42_21_goroutine.md)
 
 
 

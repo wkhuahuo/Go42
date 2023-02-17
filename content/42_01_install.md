@@ -111,7 +111,7 @@ Use "go help <topic>" for more information about that topic.
 
 另外，我们输入go version，可看到我们安装的Go版本，如图所示：
 
-![gotool.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/gv.png)
+![gotool.png](../../content/img/gv.png)
 
 **在本书中，所有代码编译运行和标准库的说明讲解都基于go1.11，还没有升级的用户请及时升级。**
 
@@ -180,13 +180,13 @@ LiteIDE源码位于https://github.com/visualfc/liteide上。需要使用Qt4/Qt5�
 现在Go 语言和开发工具我们都已经安装完成，接下来我们开始学习Go的基础知识，并实际使用他们来进行练习和开发。
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[前言](https://github.com/ffhelicopter/Go42/blob/master/README.md)
+[前言](../../README.md)
 
-[第一章 Go安装与运行](https://github.com/ffhelicopter/Go42/blob/master/content/42_01_install.md)
+[第一章 Go安装与运行](../../content/42_01_install.md)
 
-[第二章 数据类型](https://github.com/ffhelicopter/Go42/blob/master/content/42_02_datatype.md)
+[第二章 数据类型](../../content/42_02_datatype.md)
 
 
 >本书《Go语言四十二章经》内容在github上同步地址：https://github.com/ffhelicopter/Go42

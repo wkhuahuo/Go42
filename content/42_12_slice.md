@@ -221,11 +221,11 @@ func main() {
 ```
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第十一章 数组(Array)](https://github.com/ffhelicopter/Go42/blob/master/content/42_11_array.md)
+[第十一章 数组(Array)](../../content/42_11_array.md)
 
-[第十三章 字典(Map)](https://github.com/ffhelicopter/Go42/blob/master/content/42_13_map.md)
+[第十三章 字典(Map)](../../content/42_13_map.md)
 
 
 
@@ -458,11 +458,11 @@ func main() {
 ```
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第十一章 数组(Array)](https://github.com/ffhelicopter/Go42/blob/master/content/42_11_array.md)
+[第十一章 数组(Array)](../../content/42_11_array.md)
 
-[第十三章 字典(Map)](https://github.com/ffhelicopter/Go42/blob/master/content/42_13_map.md)
+[第十三章 字典(Map)](../../content/42_13_map.md)
 
 
 

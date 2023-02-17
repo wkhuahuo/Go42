@@ -142,11 +142,11 @@ c = complex(re, im)
 
  
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第一章 Go安装与运行](https://github.com/ffhelicopter/Go42/blob/master/content/42_01_install.md)
+[第一章 Go安装与运行](../../content/42_01_install.md)
 
-[第三章 变量](https://github.com/ffhelicopter/Go42/blob/master/content/42_03_var.md)
+[第三章 变量](../../content/42_03_var.md)
 
 
 

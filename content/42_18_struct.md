@@ -452,11 +452,11 @@ var c C
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第十七章 Type关键字](https://github.com/ffhelicopter/Go42/blob/master/content/42_17_type.md)
+[第十七章 Type关键字](../../content/42_17_type.md)
 
-[第十九章 接口](https://github.com/ffhelicopter/Go42/blob/master/content/42_19_interface.md)
+[第十九章 接口](../../content/42_19_interface.md)
 
 
 
@@ -920,11 +920,11 @@ var c C
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第十七章 Type关键字](https://github.com/ffhelicopter/Go42/blob/master/content/42_17_type.md)
+[第十七章 Type关键字](../../content/42_17_type.md)
 
-[第十九章 接口](https://github.com/ffhelicopter/Go42/blob/master/content/42_19_interface.md)
+[第十九章 接口](../../content/42_19_interface.md)
 
 
 

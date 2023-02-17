@@ -311,11 +311,11 @@ type ReaderWriter struct {
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第十八章 Struct 结构体](https://github.com/ffhelicopter/Go42/blob/master/content/42_18_struct.md)
+[第十八章 Struct 结构体](../../content/42_18_struct.md)
 
-[第二十章 方法](https://github.com/ffhelicopter/Go42/blob/master/content/42_20_method.md)
+[第二十章 方法](../../content/42_20_method.md)
 
 
 
@@ -638,11 +638,11 @@ type ReaderWriter struct {
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第十八章 Struct 结构体](https://github.com/ffhelicopter/Go42/blob/master/content/42_18_struct.md)
+[第十八章 Struct 结构体](../../content/42_18_struct.md)
 
-[第二十章 方法](https://github.com/ffhelicopter/Go42/blob/master/content/42_20_method.md)
+[第二十章 方法](../../content/42_20_method.md)
 
 
 

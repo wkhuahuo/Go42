@@ -319,11 +319,11 @@ NumMethod          : 0
 细心的读者可能发现了上面代码中的一个有趣的问题，那就是structValue, &structValue的反射结果是不一样的，指针对象在这里有两个方法，而值对象只有一个方法，这是因为Method2()方法是指针方法，在值对象中是不能被反射到的。
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第二十六章 测试](https://github.com/ffhelicopter/Go42/blob/master/content/42_26_testing.md)
+[第二十六章 测试](../../content/42_26_testing.md)
 
-[第二十八章 unsafe包](https://github.com/ffhelicopter/Go42/blob/master/content/42_28_unsafe.md)
+[第二十八章 unsafe包](../../content/42_28_unsafe.md)
 
 
 
@@ -654,11 +654,11 @@ NumMethod          : 0
 细心的读者可能发现了上面代码中的一个有趣的问题，那就是structValue, &structValue的反射结果是不一样的，指针对象在这里有两个方法，而值对象只有一个方法，这是因为Method2()方法是指针方法，在值对象中是不能被反射到的。
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第二十六章 测试](https://github.com/ffhelicopter/Go42/blob/master/content/42_26_testing.md)
+[第二十六章 测试](../../content/42_26_testing.md)
 
-[第二十八章 unsafe包](https://github.com/ffhelicopter/Go42/blob/master/content/42_28_unsafe.md)
+[第二十八章 unsafe包](../../content/42_28_unsafe.md)
 
 
 

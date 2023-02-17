@@ -276,11 +276,11 @@ func (dbw *DbWorker) transaction() {
 ```
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第三十八章 数据序列化](https://github.com/ffhelicopter/Go42/blob/master/content/42_38_json.md)
+[第三十八章 数据序列化](../../content/42_38_json.md)
 
-[第四十章 LevelDB与BoltDB](https://github.com/ffhelicopter/Go42/blob/master/content/42_40_kvdb.md)
+[第四十章 LevelDB与BoltDB](../../content/42_40_kvdb.md)
 
 
 
@@ -567,11 +567,11 @@ func (dbw *DbWorker) transaction() {
 ```
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第三十八章 数据序列化](https://github.com/ffhelicopter/Go42/blob/master/content/42_38_json.md)
+[第三十八章 数据序列化](../../content/42_38_json.md)
 
-[第四十章 LevelDB与BoltDB](https://github.com/ffhelicopter/Go42/blob/master/content/42_40_kvdb.md)
+[第四十章 LevelDB与BoltDB](../../content/42_40_kvdb.md)
 
 
 

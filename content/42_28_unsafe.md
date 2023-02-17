@@ -230,11 +230,11 @@ unsafe.Offsetof 可以在实际中使用，如果改变私有的字段，需要�
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第二十七章 反射(reflect)](https://github.com/ffhelicopter/Go42/blob/master/content/42_27_reflect.md)
+[第二十七章 反射(reflect)](../../content/42_27_reflect.md)
 
-[第二十九章 排序(sort)](https://github.com/ffhelicopter/Go42/blob/master/content/42_29_sort.md)
+[第二十九章 排序(sort)](../../content/42_29_sort.md)
 
 
 
@@ -475,11 +475,11 @@ unsafe.Offsetof 可以在实际中使用，如果改变私有的字段，需要�
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第二十七章 反射(reflect)](https://github.com/ffhelicopter/Go42/blob/master/content/42_27_reflect.md)
+[第二十七章 反射(reflect)](../../content/42_27_reflect.md)
 
-[第二十九章 排序(sort)](https://github.com/ffhelicopter/Go42/blob/master/content/42_29_sort.md)
+[第二十九章 排序(sort)](../../content/42_29_sort.md)
 
 
 

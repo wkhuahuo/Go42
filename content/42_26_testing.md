@@ -245,7 +245,7 @@ go tool pprof http://localhost:8080/debug/pprof/profile
 使用这个命令可以查看block信息：
 go tool pprof http://localhost:8080/debug/pprof/block
 
-![gotool.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/gotool.png)
+![gotool.png](../../content/img/gotool.png)
 
 这里需要先安装graphviz，http://www.graphviz.org/download/ ，windows平台直接下载zip包，解压缩后把bin目录放到$path中。我们可以通过执行命令 png 产生图片，还有svg，gif，pdf等命令，生成的图片自动命名存放在当前目录下，我们这里生成了png。其他命令使用可通过help查看。
 
@@ -318,13 +318,13 @@ go tool pprof 3.exe cpu.prof
 
 命令执行后会进入到：
 
-![132.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/132.png)
+![132.png](../../content/img/132.png)
 
 命令界面和前面两种使用net/http/pprof包 一样。我们可以通过go tool pprof 生svg，png或者是pdf文件。
 
 这是生成的png文件，和前面生成的png类似，前面我们生成的是block信息：
 
-![profile001.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/profile001.png)
+![profile001.png](../../content/img/profile001.png)
 
 通过上面这三种情况的分析，我们可以知道，其实就是两种情况：
 go tool pprof http://localhost:8080/debug/pprof/profile 这种url方式，或者
@@ -334,11 +334,11 @@ go tool pprof 3.exe cpu.prof   这种文件方式来进行分析。
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第二十五章 面向对象](https://github.com/ffhelicopter/Go42/blob/master/content/42_25_oo.md)
+[第二十五章 面向对象](../../content/42_25_oo.md)
 
-[第二十七章 反射(reflect)](https://github.com/ffhelicopter/Go42/blob/master/content/42_27_reflect.md)
+[第二十七章 反射(reflect)](../../content/42_27_reflect.md)
 
 
 >本书《Go语言四十二章经》内容在github上同步地址：https://github.com/ffhelicopter/Go42
@@ -594,7 +594,7 @@ go tool pprof http://localhost:8080/debug/pprof/profile
 使用这个命令可以查看block信息：
 go tool pprof http://localhost:8080/debug/pprof/block
 
-![gotool.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/gotool.png)
+![gotool.png](../../content/img/gotool.png)
 
 这里需要先安装graphviz，http://www.graphviz.org/download/ ，windows平台直接下载zip包，解压缩后把bin目录放到$path中。我们可以通过执行命令 png 产生图片，还有svg，gif，pdf等命令，生成的图片自动命名存放在当前目录下，我们这里生成了png。其他命令使用可通过help查看。
 
@@ -667,13 +667,13 @@ go tool pprof 3.exe cpu.prof
 
 命令执行后会进入到：
 
-![132.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/132.png)
+![132.png](../../content/img/132.png)
 
 命令界面和前面两种使用net/http/pprof包 一样。我们可以通过go tool pprof 生svg，png或者是pdf文件。
 
 这是生成的png文件，和前面生成的png类似，前面我们生成的是block信息：
 
-![profile001.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/profile001.png)
+![profile001.png](../../content/img/profile001.png)
 
 通过上面这三种情况的分析，我们可以知道，其实就是两种情况：
 go tool pprof http://localhost:8080/debug/pprof/profile 这种url方式，或者
@@ -683,11 +683,11 @@ go tool pprof 3.exe cpu.prof   这种文件方式来进行分析。
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第二十五章 面向对象](https://github.com/ffhelicopter/Go42/blob/master/content/42_25_oo.md)
+[第二十五章 面向对象](../../content/42_25_oo.md)
 
-[第二十七章 反射(reflect)](https://github.com/ffhelicopter/Go42/blob/master/content/42_27_reflect.md)
+[第二十七章 反射(reflect)](../../content/42_27_reflect.md)
 
 
 >本书《Go语言四十二章经》内容在github上同步地址：https://github.com/ffhelicopter/Go42

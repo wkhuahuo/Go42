@@ -164,11 +164,11 @@ time.Sleep(1e9)让主程序不会马上退出，以便让协程运行完成，�
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第二十章 方法](https://github.com/ffhelicopter/Go42/blob/master/content/42_20_method.md)
+[第二十章 方法](../../content/42_20_method.md)
 
-[第二十二章 通道(channel)](https://github.com/ffhelicopter/Go42/blob/master/content/42_22_channel.md)
+[第二十二章 通道(channel)](../../content/42_22_channel.md)
 
 
 
@@ -344,11 +344,11 @@ time.Sleep(1e9)让主程序不会马上退出，以便让协程运行完成，�
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第二十章 方法](https://github.com/ffhelicopter/Go42/blob/master/content/42_20_method.md)
+[第二十章 方法](../../content/42_20_method.md)
 
-[第二十二章 通道(channel)](https://github.com/ffhelicopter/Go42/blob/master/content/42_22_channel.md)
+[第二十二章 通道(channel)](../../content/42_22_channel.md)
 
 
 

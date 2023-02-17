@@ -179,11 +179,11 @@ Go语言中init()函数常用于包的初始化，该函数是Go语言的一个�
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第六章 约定和惯例](https://github.com/ffhelicopter/Go42/blob/master/content/42_06_convention.md)
+[第六章 约定和惯例](../../content/42_06_convention.md)
 
-[第八章 Go项目开发与编译](https://github.com/ffhelicopter/Go42/blob/master/content/42_08_project.md)
+[第八章 Go项目开发与编译](../../content/42_08_project.md)
 
 
 >本书《Go语言四十二章经》内容在github上同步地址：https://github.com/ffhelicopter/Go42
@@ -372,11 +372,11 @@ Go语言中init()函数常用于包的初始化，该函数是Go语言的一个�
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第六章 约定和惯例](https://github.com/ffhelicopter/Go42/blob/master/content/42_06_convention.md)
+[第六章 约定和惯例](../../content/42_06_convention.md)
 
-[第八章 Go项目开发与编译](https://github.com/ffhelicopter/Go42/blob/master/content/42_08_project.md)
+[第八章 Go项目开发与编译](../../content/42_08_project.md)
 
 
 >本书《Go语言四十二章经》内容在github上同步地址：https://github.com/ffhelicopter/Go42

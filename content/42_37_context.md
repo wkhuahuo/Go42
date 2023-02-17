@@ -316,11 +316,11 @@ func main() {
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第三十六章 net/http包](https://github.com/ffhelicopter/Go42/blob/master/content/42_36_http.md)
+[第三十六章 net/http包](../../content/42_36_http.md)
 
-[第三十八章 数据序列化](https://github.com/ffhelicopter/Go42/blob/master/content/42_38_json.md)
+[第三十八章 数据序列化](../../content/42_38_json.md)
 
 
 
@@ -648,11 +648,11 @@ func main() {
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第三十六章 net/http包](https://github.com/ffhelicopter/Go42/blob/master/content/42_36_http.md)
+[第三十六章 net/http包](../../content/42_36_http.md)
 
-[第三十八章 数据序列化](https://github.com/ffhelicopter/Go42/blob/master/content/42_38_json.md)
+[第三十八章 数据序列化](../../content/42_38_json.md)
 
 
 

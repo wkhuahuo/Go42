@@ -139,11 +139,11 @@ func main() {
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第四章 常量](https://github.com/ffhelicopter/Go42/blob/master/content/42_04_const.md)
+[第四章 常量](../../content/42_04_const.md)
 
-[第六章 约定和惯例](https://github.com/ffhelicopter/Go42/blob/master/content/42_06_convention.md)
+[第六章 约定和惯例](../../content/42_06_convention.md)
 
 
 

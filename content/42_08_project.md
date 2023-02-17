@@ -82,7 +82,7 @@ func NewWriter(w io.Writer) * Writer {
 然后在浏览器打开地址：http://localhost:6060
 
 然后你会看到本地的 Godoc 页面，从左到右一次显示出目录中的包。
-![godoc.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/godoc.png)
+![godoc.png](../../content/img/godoc.png)
 
 
 ## 8.3 Go程序的编译
@@ -97,7 +97,7 @@ go build用于编译指定的代码包以及它们的依赖包。如果用来编
 
 使用go build时有一个地方需要注意，对外发布编译文件如果不希望被人看到源代码，请使用go build -ldflags 命令，设置编译参数-ldflags "-w -s" 再编译后发布。避免使用gdb来调试而清楚看到源代码。
 
-![ch5.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/ch5.png)
+![ch5.png](../../content/img/ch5.png)
 
 ## 8.4 Go modules 包依赖管理
 
@@ -203,7 +203,7 @@ go mod edit -replace=old[@v]=new[@v]
 D:\gomodules\ind>go mod edit -replace=golang.org/x/net@v0.0.0-20181114220301-adae6a3d119a=github.com/golang/net@v0.0.0-20181114220301-adae6a3d119a
 
 
-![go mod tidy 命令](https://github.com/ffhelicopter/Go42/blob/master/content/img/tidy.png)
+![go mod tidy 命令](../../content/img/tidy.png)
 
 
 3、我们看到在ind目录下面多了2个文件，分别是go.mod和go.sum。
@@ -271,11 +271,11 @@ github.com/temoto/robotstxt v0.0.0-20180810133444-97ee4a9ee6ea/go.mod h1:aOux3gH
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第七章 代码结构化](https://github.com/ffhelicopter/Go42/blob/master/content/42_07_package.md)
+[第七章 代码结构化](../../content/42_07_package.md)
 
-[第九章 运算符](https://github.com/ffhelicopter/Go42/blob/master/content/42_09_operator.md)
+[第九章 运算符](../../content/42_09_operator.md)
 
 
 
@@ -368,7 +368,7 @@ func NewWriter(w io.Writer) * Writer {
 然后在浏览器打开地址：http://localhost:6060
 
 然后你会看到本地的 Godoc 页面，从左到右一次显示出目录中的包。
-![godoc.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/godoc.png)
+![godoc.png](../../content/img/godoc.png)
 
 
 ## 8.3 Go程序的编译
@@ -383,7 +383,7 @@ go build用于编译指定的代码包以及它们的依赖包。如果用来编
 
 使用go build时有一个地方需要注意，对外发布编译文件如果不希望被人看到源代码，请使用go build -ldflags 命令，设置编译参数-ldflags "-w -s" 再编译后发布。避免使用gdb来调试而清楚看到源代码。
 
-![ch5.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/ch5.png)
+![ch5.png](../../content/img/ch5.png)
 
 ## 8.4 Go modules 包依赖管理
 
@@ -489,7 +489,7 @@ go mod edit -replace=old[@v]=new[@v]
 D:\gomodules\ind>go mod edit -replace=golang.org/x/net@v0.0.0-20181114220301-adae6a3d119a=github.com/golang/net@v0.0.0-20181114220301-adae6a3d119a
 
 
-![go mod tidy 命令](https://github.com/ffhelicopter/Go42/blob/master/content/img/tidy.png)
+![go mod tidy 命令](../../content/img/tidy.png)
 
 
 3、我们看到在ind目录下面多了2个文件，分别是go.mod和go.sum。
@@ -557,11 +557,11 @@ github.com/temoto/robotstxt v0.0.0-20180810133444-97ee4a9ee6ea/go.mod h1:aOux3gH
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第七章 代码结构化](https://github.com/ffhelicopter/Go42/blob/master/content/42_07_package.md)
+[第七章 代码结构化](../../content/42_07_package.md)
 
-[第九章 运算符](https://github.com/ffhelicopter/Go42/blob/master/content/42_09_operator.md)
+[第九章 运算符](../../content/42_09_operator.md)
 
 
 

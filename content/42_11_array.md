@@ -115,11 +115,11 @@ println(arrRoom == arrBed) //true
 
 ```
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第十章 string](https://github.com/ffhelicopter/Go42/blob/master/content/42_10_string.md)
+[第十章 string](../../content/42_10_string.md)
 
-[第十二章 切片(slice)](https://github.com/ffhelicopter/Go42/blob/master/content/42_12_slice.md)
+[第十二章 切片(slice)](../../content/42_12_slice.md)
 
 
 
@@ -246,11 +246,11 @@ println(arrRoom == arrBed) //true
 
 ```
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第十章 string](https://github.com/ffhelicopter/Go42/blob/master/content/42_10_string.md)
+[第十章 string](../../content/42_10_string.md)
 
-[第十二章 切片(slice)](https://github.com/ffhelicopter/Go42/blob/master/content/42_12_slice.md)
+[第十二章 切片(slice)](../../content/42_12_slice.md)
 
 
 

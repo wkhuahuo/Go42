@@ -211,11 +211,11 @@ received  9
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第二十一章 协程(goroutine)](https://github.com/ffhelicopter/Go42/blob/master/content/42_21_goroutine.md)
+[第二十一章 协程(goroutine)](../../content/42_21_goroutine.md)
 
-[第二十三章 同步与锁](https://github.com/ffhelicopter/Go42/blob/master/content/42_23_sync.md)
+[第二十三章 同步与锁](../../content/42_23_sync.md)
 
 
 
@@ -437,11 +437,11 @@ received  9
 
 
 
-[目录](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+[目录](../../SUMMARY.md)
 
-[第二十一章 协程(goroutine)](https://github.com/ffhelicopter/Go42/blob/master/content/42_21_goroutine.md)
+[第二十一章 协程(goroutine)](../../content/42_21_goroutine.md)
 
-[第二十三章 同步与锁](https://github.com/ffhelicopter/Go42/blob/master/content/42_23_sync.md)
+[第二十三章 同步与锁](../../content/42_23_sync.md)
 
 
 
